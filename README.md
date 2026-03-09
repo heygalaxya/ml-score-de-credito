@@ -19,6 +19,7 @@ Visualização da base de dados para compreensão das informações relevantes p
 <img width="1108" height="342" alt="image (4)" src="https://github.com/user-attachments/assets/49d8033f-9a41-49ec-9cae-947e978f496f" />
 
 <img width="772" height="336" alt="image (5)" src="https://github.com/user-attachments/assets/7b2f56a3-a414-499a-8e70-07c4f4916941" />
+
 [Tabela completa exibindo as colunas e o preenchimento dos dados dos clientes.]
 
 ## Tratamento de dados
